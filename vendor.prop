@@ -10,3 +10,11 @@ persist.vendor.audio.calfile4=/vendor/etc/acdbdata/IDP/IDP_Bluetooth_cal.acdb
 persist.vendor.audio.calfile5=/vendor/etc/acdbdata/IDP/IDP_Hdmi_cal.acdb
 persist.vendor.audio.calfile6=/vendor/etc/acdbdata/IDP/IDP_Global_cal.acdb
 persist.vendor.audio.calfile7=/vendor/etc/acdbdata/IDP/IDP_Handset_cal.acdb
+
+# Product
+ro.build.fingerprint=google/flame/flame:10/QQ2A.200405.005/6254899:user/release-keys
+ro.product.manufacturer=Google
+ro.product.device=flame
+ro.product.brand=google
+ro.product.name=flame
+ro.product.model=Pixel 4
