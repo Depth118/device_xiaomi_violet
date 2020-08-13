@@ -10,3 +10,5 @@ persist.vendor.audio.calfile4=/vendor/etc/acdbdata/IDP/IDP_Bluetooth_cal.acdb
 persist.vendor.audio.calfile5=/vendor/etc/acdbdata/IDP/IDP_Hdmi_cal.acdb
 persist.vendor.audio.calfile6=/vendor/etc/acdbdata/IDP/IDP_Global_cal.acdb
 persist.vendor.audio.calfile7=/vendor/etc/acdbdata/IDP/IDP_Handset_cal.acdb
+
+ro.build.fingerprint=google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys
