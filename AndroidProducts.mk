@@ -5,8 +5,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/stag_violet.mk
+    $(LOCAL_DIR)/p404_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    stag_violet-userdebug \
-    stag_violet-eng
+    p404_violet-userdebug \
+    p404_violet-eng
